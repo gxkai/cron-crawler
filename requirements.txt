@@ -1,0 +1,5 @@
+pathlib2==2.3.7.post1
+requests==2.27.1
+Jinja2==3.0.3
+python-dotenv==0.19.2
+scrapy== 2.6.2
